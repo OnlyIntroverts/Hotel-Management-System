@@ -11,3 +11,7 @@ Menu Bar :
 1)help button in the menu bar contains the contact details has made use of SMTP to send regualr updates and offers to its customers.
 2) all customers- displays details of all the customers who have checked inn
 3) vacancy-  separately divides the occupied and unoccupied rooms with regular updations.
+
+Developed by : 
+1) Mishika Shukla - @pyShika
+2) Rahul kumar Mishra - @TheCyberAtom
